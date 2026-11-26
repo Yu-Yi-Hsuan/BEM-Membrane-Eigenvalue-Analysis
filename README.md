@@ -8,8 +8,7 @@
 - Shing-Kai Kao
 - Ying-Te Lee
 
-Department of Harbor and River Engineering,  
-National Taiwan Ocean University, Taiwan
+Department of Harbor and River Engineering, National Taiwan Ocean University, Taiwan
 
 ## Overview
 
