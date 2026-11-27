@@ -1,4 +1,3 @@
-
 # Investigation of True and Spurious Eigenvalues and Animation of Membrane Eigenmodes
 
 ## Authors
