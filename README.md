@@ -70,7 +70,6 @@ The eigenvalue search generally employs a uniform wavenumber increment of 0.001,
 
 - Preserve the original directory structure and file names when running the programs.
 - Numerical data files are included to facilitate examination of the computational results.
-- The accompanying modal animations are described in the manuscript as supplementary online resources.
 
 ## Corresponding Author
 
